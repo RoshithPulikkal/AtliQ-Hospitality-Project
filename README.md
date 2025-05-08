@@ -30,4 +30,4 @@ This Power BI dashboard serves as a valuable tool for AtliQ Grands to proactivel
 
 ## About
 
-This dashboard was created by Mr. Roshith Pulikkal as part of the Codebasics Data Ana
+This dashboard was created by Mr. Roshith Pulikkal as part of the Codebasics Data Analytics Bootcamp.
